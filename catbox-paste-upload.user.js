@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Catbox Paste Upload (Image + Text)
-// @namespace    https://catbox.moe/
+// @namespace    https://xyqra.com/catbox-paste-upload.user.js
 // @version      1.1
 // @description  Paste images or text directly into Catbox's upload form without saving first.
 // @author       you
